@@ -1,5 +1,5 @@
 context:
-  version: "1.9.0"
+  version: "1.10.0"
 
 package:
   name: code-notify
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/mylee04/code-notify/archive/v${{ version }}.tar.gz
-  sha256: a0b1a37116a5697038b5c07ad7520d9b0e89cea9506ead54ed67fd47b03dd246
+  sha256: 253ec920d710d20586d6c567583326660083f321b705e933d4260f2eb282d87c
 
 build:
   number: 0
